@@ -24,8 +24,8 @@
 #define HREF_GPIO_NUM     23
 #define PCLK_GPIO_NUM     22
 
-#define SSID1 "Home FTH"
-#define PWD1 "12ab09ab"
+#define SSID1 "Enter wifi name here"
+#define PWD1 "Enter wifi password here"
 
 #define LED_PIN 4 // GPIO pin for onboard LED (adjust if needed)
 
